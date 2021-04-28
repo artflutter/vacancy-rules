@@ -1,6 +1,6 @@
 # Правила добавления вакансии
 
-Чтобы добавить вакансию в канал [FlutterVacancies](https://t.me/fluttervacancies) напишите сообщение [Anton Matrenin](http://t.me/matreninAnton) или [Vasilich](http://t.me/vasilich6107). В сообщении укажите текст вакансии и вид размещения.
+Чтобы добавить вакансию в канал [FlutterVacancies](https://t.me/fluttervacancies) напишите сообщение [Anton Matrenin](http://t.me/matreninAnton). В сообщении укажите текст вакансии и вид размещения.
 
 # Виды размещения и стоимость
 
