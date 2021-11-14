@@ -1,6 +1,7 @@
 # Правила добавления вакансии
 
 Чтобы добавить вакансию в канал [FlutterVacancies](https://t.me/fluttervacancies) напишите сообщение [Anton Matrenin](http://t.me/matreninAnton). В сообщении укажите текст вакансии и вид размещения.
+Также есть возможность получить готовых специалистов любого уровня (junior / middle / senior) в кратчайшие сроки. 
 
 # Виды размещения и стоимость
 
@@ -32,6 +33,4 @@
 
 # Методы оплаты
 
-1. Monobank
-1. Payoneer
-1. qiwi / webmoney
+1. Monobank / card transfer
